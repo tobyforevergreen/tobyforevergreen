@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building up my GitHub profile with data**
 
-- 🌱 I’m currently learning **EDA-exploratory data analysis,Data wrangling,Machine learning, Linux Administration,Cloud Security, Databases, Bioinformatics**
+- 🌱 I’m currently learning **Data Science,Data Engineering, Machine learning, Linux,Cloud Computing, Databases, Tableau,Power BI**
 
 - 👯 I’m looking to collaborate on **Any data science project**
 
